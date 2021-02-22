@@ -4,7 +4,7 @@
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
 
-def greed(size , lst ):
+def greed(company_network , distance ):
 
     lst.sort()
     sum = 0
@@ -21,7 +21,16 @@ def greed(size , lst ):
 
 
 if __name__ == '__main__':
-    size = int(input())
-    lst = list(map(int,input().split()))
-    print(greed(size,lst))
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+    company_network= list(map(int,input().split()))
+    distance = []
+    for i in range(company_network[0]):
+        distance.append(int(input()))
+
+
+
+
+
+
+
+
+    # See PyCharm help at https://www.jetbrains.com/help/pycharm/
