@@ -1,15 +1,20 @@
 
+def dynamic(number,lst):
+    if len(lst) == 1:
+        return 1
+    elif len(lst) ==2:
 
-def dynamic(n,number,lst):
-    l = [[0]*n for k in range(n)]
+        if number[lst[0]-1] == number[lst[1] - 1]:
+            return 1
+        else:
+            return 0
 
-    for i in range(n):
-        end = start + i
-        if end > n:
-            break;
-        if start == end:
-            l[start][end] = 1
-        if start +1 == end:
+    if number[lst[0]-1] != number[lst[-1] - 1]:
+
+        return 0
+    else:
+        lst = lst[1:-1]
+        return dynamic(number,lst)
 
 
 n = int(input())
