@@ -1,4 +1,3 @@
-
 import sys
 input = sys.stdin.readline
 n = int(input())
@@ -19,6 +18,4 @@ while len(B) > 0:
             if i >= B[k]:
                 B.pop(k)
                 break
-
 print(time)
-
