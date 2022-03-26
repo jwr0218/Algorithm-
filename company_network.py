@@ -8,7 +8,7 @@ def greed(company_network , distance ):
     cable_2 = 0
     min_list = []
     boo = True
-    for z in rnage(cable):
+    for z in range(cable):
         i = 0
         min = 10 ** 7
         while i < len(distance):
