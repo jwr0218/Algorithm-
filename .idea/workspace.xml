@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c94803f5-f342-4692-a19b-97967f957604" name="Default Changelist" comment="">
+    <list default="true" id="3e8ac23e-ff2a-45d2-b3b9-4dae612b160c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/company_network.py" beforeDir="false" afterPath="$PROJECT_DIR$/company_network.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1qQTKm5eMBvAOIM9ZcXNaLfPhUp" />
+  <component name="ProjectId" id="26wri1AFldxBztUXudgXHcEgOOk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,20 +22,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c94803f5-f342-4692-a19b-97967f957604" name="Default Changelist" comment="" />
-      <created>1617010754891</created>
+      <changelist id="3e8ac23e-ff2a-45d2-b3b9-4dae612b160c" name="Default Changelist" comment="" />
+      <created>1648345612728</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1617010754891</updated>
-      <workItem from="1617010756926" duration="14000" />
-      <workItem from="1617010781120" duration="4000" />
-      <workItem from="1648200460981" duration="15000" />
-      <workItem from="1648200476787" duration="366000" />
+      <updated>1648345612728</updated>
+      <workItem from="1648345613841" duration="140000" />
     </task>
     <servers />
   </component>
